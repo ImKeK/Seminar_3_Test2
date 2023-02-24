@@ -38,3 +38,4 @@ Git add
 ## Работа с картинками
 
 ![Картинка](https://s0.rbk.ru/v6_top_pics/media/img/4/97/756723916815974.webp)
+[Работа с markdown] (https://gist.github.com/Jekins/2bf2d0638163f1294637п)
